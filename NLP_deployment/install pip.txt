@@ -1,0 +1,11 @@
+pip install pandas
+pip install numpy
+pip install streamlit
+pip install nltk
+pip install mtranslate
+pip install contractions
+pip install joblib
+pip install emoji
+pip install nltk
+pip install pyspellchecker
+
